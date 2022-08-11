@@ -1,5 +1,8 @@
 # Regressão Linear Simples
 
+Esse estudo foi baseado no vídeo: [Regressão Linear Simples em Python](https://www.youtube.com/watch?v=nYK7nDGCIBk&ab_channel=OrivaldoSantana)
+
+
 
 ![image](https://user-images.githubusercontent.com/104592210/184053470-3981d3fb-9385-4b25-9d94-29fbc53ab142.png)
 
